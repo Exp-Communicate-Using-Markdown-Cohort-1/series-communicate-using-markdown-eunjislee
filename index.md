@@ -7,3 +7,8 @@
 
 ![image](https://github.com/user-attachments/assets/8245a9f8-ac48-42f8-9b5d-f7ec11cb08c4)
 
+```
+% mkdir shrimp04
+% ls
+examples    hello.txt    shrimp04
+```
