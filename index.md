@@ -12,3 +12,7 @@
 % ls
 examples    hello.txt    shrimp04
 ```
+
+- [x] slay the day away
+- [ ] finish homework
+- [x] sleep 
